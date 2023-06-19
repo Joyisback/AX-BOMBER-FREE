@@ -4,18 +4,18 @@
 
  * `apt update` 
 
- * `apt install git python python2 -y` 
+ * `apt install git python python` 
 
- * `git clone https://github.com/htr-tech/haxorbd.git` 
+ * `https://github.com/Joyisback/AX-BOMBER-FREE.git` 
 
- * `cd haxorbd` 
-
-  
-
- #### > Run : `python2 haxor.py` 
+ * `cd AX-BOMBER-FREE` 
 
   
 
- #### USERNAME : `haxor` 
+ #### > Run : `python AX-BOMBER.py` 
 
- #### PASSWORD : `htrtech`
+  
+
+ #### USERNAME : `AX` 
+
+ #### PASSWORD : `TEAM`
