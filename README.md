@@ -7,9 +7,9 @@
 
  * `apt update` 
 
- * `apt install git python python` 
+ * `apt install ` 
 
- * `https://github.com/Joyisback/AX-BOMBER-FREE.git` 
+ * `git clone https://github.com/Joyisback/AX-BOMBER-FREE.git` 
 
  * `cd AX-BOMBER-FREE` 
 
