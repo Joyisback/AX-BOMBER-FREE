@@ -31,5 +31,4 @@
 
 ## Find Me on : 
  [![Github](https://img.shields.io/badge/Github-Joyisback-green?style=for-the-badge&logo=github)](https://github.com/Joyisback) 
- [![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat) 
- [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)(https://www.facebook.com/profile.php?id=100093492936673)
+
