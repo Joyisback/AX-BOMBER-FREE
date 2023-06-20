@@ -5,10 +5,6 @@
 
   
 
- * `apt update` 
-
- * `apt install ` 
-
  * `git clone https://github.com/Joyisback/AX-BOMBER-FREE.git` 
 
  * `cd AX-BOMBER-FREE` 
