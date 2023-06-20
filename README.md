@@ -23,7 +23,7 @@
 
  #### PASSWORD : `TEAM`
 
-https://i.postimg.cc/QCQG06dQ/Screenshot-2023-06-20-07-29-28-667-edit-com-termux.jpg
+[![Screenshot-2023-06-20-07-29-28-667-edit-com-termux.jpg](https://i.postimg.cc/QCQG06dQ/Screenshot-2023-06-20-07-29-28-667-edit-com-termux.jpg)](https://postimg.cc/RJZD0Lfh)
 
 
 ## Find Me on : 
