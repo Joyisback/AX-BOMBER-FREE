@@ -26,7 +26,7 @@
 [![Screenshot-2023-06-20-07-29-28-667-edit-com-termux.jpg](https://i.postimg.cc/QCQG06dQ/Screenshot-2023-06-20-07-29-28-667-edit-com-termux.jpg)](https://postimg.cc/RJZD0Lfh)
 
 ## error fix : 
- ``` 
+
 pkg update
 pkg upgrade
 pkg install python
@@ -35,8 +35,7 @@ pip2 install requests
 pip2 install mechanize
 pip2 install bs4
 termux-setup-storage
-pip install rich
-
+pip install rich`
 
 
 ## Find Me on : 
