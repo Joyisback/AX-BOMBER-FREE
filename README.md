@@ -37,6 +37,8 @@ pip2 install bs4
 termux-setup-storage
 pip install rich
 
+
+
 ## Find Me on : 
  [![Github](https://img.shields.io/badge/Github-Joyisback-green?style=for-the-badge&logo=github)](https://github.com/Joyisback) 
 
